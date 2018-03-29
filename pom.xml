@@ -41,7 +41,7 @@
 					</descriptorRefs> <!-- MainClass in mainfest make a executable jar -->
 					<archive>
 						<manifest>
-							<mainClass>b2.Example2</mainClass>
+							<mainClass>javab3.Main</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
